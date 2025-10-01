@@ -11,6 +11,8 @@
 
 ## ⌛ Projetos em andamento
 - **IMDb Vite App** — Listagem de filmes/séries com favoritos e “visto” (React + React Query) 
+
+## 🚀 Projetos futuros
 - **IMDb Next App** — Mesma app em Next.js com sessão de comentários no Firebase e deploy na Vercel
 
 ## 👍 Projetos concluídos
