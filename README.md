@@ -2,7 +2,7 @@
 
 👩‍🎓 Sou aluna de graduação em Inteligência Artificial e Automação Digital, iniciante em desenvolvimento frontend e estou desenvolvendo as seguintes habilidades:
 - [x] HTML e CSS
-- [ ] JavaScript
+- [x] JavaScript
 - [ ] React
 - [ ] Tailwind
 - [ ] Next.js 
@@ -17,6 +17,7 @@
 
 ## 👍 Projetos concluídos
 - **Automação integrada ao GEMINI** - https://github.com/MayaraSchweppe/textos-corporativos
+- **Prompts para IA** - https://github.com/MayaraSchweppe/NLW-Rocketseat-Prompts-Manager
 
 
 ## 💌 Contato
