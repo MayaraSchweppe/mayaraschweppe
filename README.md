@@ -3,6 +3,8 @@
 👩‍🎓 Sou aluna de graduação em Inteligência Artificial e Automação Digital, iniciante em desenvolvimento frontend e estou desenvolvendo as seguintes habilidades:
 - [x] HTML e CSS
 - [x] JavaScript
+- [ ] Python
+- [ ] SQL
 - [ ] React
 - [ ] Tailwind
 - [ ] Next.js 
