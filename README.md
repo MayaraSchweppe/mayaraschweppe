@@ -20,6 +20,7 @@
 ## 👍 Projetos concluídos
 - **Automação integrada ao GEMINI** - https://github.com/MayaraSchweppe/textos-corporativos
 - **Prompts para IA** - https://github.com/MayaraSchweppe/NLW-Rocketseat-Prompts-Manager
+- **Gestão de peças industriais** - https://github.com/MayaraSchweppe/gestao-industrial
 
 
 ## 💌 Contato
